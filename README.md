@@ -1,3 +1,6 @@
+This project is a wotk in progress for an at home portal with todo list and calenders, it is not completed however.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
